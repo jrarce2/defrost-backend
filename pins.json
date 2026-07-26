@@ -65,14 +65,6 @@
   },
   {
     "id": "8",
-    "title": "Gobierno de Trump prevé deshacerse de algunos almacenes adquiridos para centros de detención",
-    "link": "https://www.telemundo52.com/noticias/inmigracion/gobierno-trump-preve-deshacerse-almacenes-centros-detencion/2874680/",
-    "location": "Michigan",
-    "latitude": 43.6211955,
-    "longitude": -84.6824346
-  },
-  {
-    "id": "9",
     "title": "Detienen a un inmigrante en el área de Florence con supuestas tácticas engañosas",
     "link": "https://www.telemundo52.com/noticias/inmigracion/detienen-inmigrante-area-florence/2874502/",
     "location": "Florence",
@@ -80,7 +72,7 @@
     "longitude": 11.2556404
   },
   {
-    "id": "10",
+    "id": "9",
     "title": "Arrestan a agente de ICE buscado por disparar a inmigrante venezolano en protestas de Minnesota",
     "link": "https://www.telemundo52.com/noticias/inmigracion/arrestan-agente-ice-texas-buscado-disparar-venezolano-protestas-minnesota/2866629/",
     "location": "Minnesota",
