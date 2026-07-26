@@ -82,11 +82,27 @@ async function geocodeLocation(locationText) {
 }
 
 async function main() {
+  // Load what we've already processed (if this file doesn't exist yet, start empty)
+  let seenLinks = [];
+  if (fs.existsSync('seen-articles.json')) {
+    seenLinks = JSON.parse(fs.readFileSync('seen-articles.json'));
+  }
+
+  // Load existing pins (if any) instead of starting from scratch
+  let pins = [];
+  if (fs.existsSync('pins.json')) {
+    pins = JSON.parse(fs.readFileSync('pins.json'));
+  }
+
   console.log('Fetching articles...\n');
   const articles = await fetchArticles();
-  const pins = [];
 
   for (const article of articles) {
+    if (seenLinks.includes(article.link)) {
+      console.log('Already processed, skipping:', article.title);
+      continue; // skip to the next article
+    }
+
     const analysis = await analyzeArticle(article);
     console.log('---');
     console.log('Title:', article.title);
@@ -110,10 +126,14 @@ async function main() {
         }
       }
     }
+
+    // Mark this article as processed, regardless of whether it became a pin
+    seenLinks.push(article.link);
   }
 
   fs.writeFileSync('pins.json', JSON.stringify(pins, null, 2));
-  console.log(`\nSaved ${pins.length} pins to pins.json`);
+  fs.writeFileSync('seen-articles.json', JSON.stringify(seenLinks, null, 2));
+  console.log(`\nSaved ${pins.length} total pins. ${seenLinks.length} articles tracked as seen.`);
 }
 
 main();
