@@ -7,10 +7,13 @@ const anthropic = new Anthropic({
   apiKey: process.env.ANTHROPIC_API_KEY,
 });
 
-const FEED_URL = 'https://www.telemundo52.com/noticias/inmigracion/?rss=y';
+const FEEDS = [
+  { source: 'Telemundo 52', url: 'https://www.telemundo52.com/noticias/inmigracion/?rss=y' },
+  { source: 'Telemundo Chicago', url: 'https://www.telemundochicago.com/noticias/inmigracion/?rss=y' },
+];
 
-async function fetchArticles() {
-  const response = await fetch(FEED_URL);
+async function fetchArticles(feedUrl, sourceName) {
+  const response = await fetch(feedUrl);
   const xmlText = await response.text();
 
   const parser = new XMLParser({ ignoreAttributes: false });
@@ -25,6 +28,7 @@ async function fetchArticles() {
     title: item.title,
     link: item.link,
     excerpt: item.excerpt || '',
+    source: sourceName,
   }));
 }
 
@@ -82,53 +86,53 @@ async function geocodeLocation(locationText) {
 }
 
 async function main() {
-  // Load what we've already processed (if this file doesn't exist yet, start empty)
   let seenLinks = [];
   if (fs.existsSync('seen-articles.json')) {
     seenLinks = JSON.parse(fs.readFileSync('seen-articles.json'));
   }
 
-  // Load existing pins (if any) instead of starting from scratch
   let pins = [];
   if (fs.existsSync('pins.json')) {
     pins = JSON.parse(fs.readFileSync('pins.json'));
   }
 
-  console.log('Fetching articles...\n');
-  const articles = await fetchArticles();
+  for (const feed of FEEDS) {
+    console.log(`\nFetching from ${feed.source}...`);
+    const articles = await fetchArticles(feed.url, feed.source);
 
-  for (const article of articles) {
-    if (seenLinks.includes(article.link)) {
-      console.log('Already processed, skipping:', article.title);
-      continue; // skip to the next article
-    }
+    for (const article of articles) {
+      if (seenLinks.includes(article.link)) {
+        console.log('Already processed, skipping:', article.title);
+        continue;
+      }
 
-    const analysis = await analyzeArticle(article);
-    console.log('---');
-    console.log('Title:', article.title);
-    console.log('ICE-related:', analysis.is_ice_related);
-    console.log('Locations:', analysis.locations);
+      const analysis = await analyzeArticle(article);
+      console.log('---');
+      console.log('Title:', article.title, `(${article.source})`);
+      console.log('ICE-related:', analysis.is_ice_related);
+      console.log('Locations:', analysis.locations);
 
-    if (analysis.is_ice_related && analysis.locations && analysis.locations.length > 0) {
-      for (const location of analysis.locations) {
-        const coords = await geocodeLocation(location);
-        console.log(`  → ${location}:`, coords);
+      if (analysis.is_ice_related && analysis.locations && analysis.locations.length > 0) {
+        for (const location of analysis.locations) {
+          const coords = await geocodeLocation(location);
+          console.log(`  → ${location}:`, coords);
 
-        if (coords) {
-          pins.push({
-            id: `${pins.length}`,
-            title: article.title,
-            link: article.link,
-            location: location,
-            latitude: coords.latitude,
-            longitude: coords.longitude,
-          });
+          if (coords) {
+            pins.push({
+              id: `${pins.length}`,
+              title: article.title,
+              link: article.link,
+              location: location,
+              source: article.source,
+              latitude: coords.latitude,
+              longitude: coords.longitude,
+            });
+          }
         }
       }
-    }
 
-    // Mark this article as processed, regardless of whether it became a pin
-    seenLinks.push(article.link);
+      seenLinks.push(article.link);
+    }
   }
 
   fs.writeFileSync('pins.json', JSON.stringify(pins, null, 2));

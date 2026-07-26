@@ -174,5 +174,122 @@
     "location": "Minnesota",
     "latitude": 45.9896587,
     "longitude": -94.6113288
+  },
+  {
+    "id": "22",
+    "title": "Agente involucrado en tiroteo mortal contra inmigrante en Maine estaría bajo protección de autoridades",
+    "link": "https://www.telemundochicago.com/noticias/inmigracion/ice-tiroteo-maine-agente-involucrado-proteccion-amenazas/2646665/",
+    "location": "Maine",
+    "source": "Telemundo Chicago",
+    "latitude": 45.709097,
+    "longitude": -68.8590201
+  },
+  {
+    "id": "23",
+    "title": "Mexicano que murió atropellado tras huir de ICE en Florida estaba de vacaciones, según autoridades",
+    "link": "https://www.telemundochicago.com/noticias/inmigracion/mexicano-ice-florida-juan-jairo-coronilla-st-augustine/2645955/",
+    "location": "Georgia",
+    "source": "Telemundo Chicago",
+    "latitude": 32.3293809,
+    "longitude": -83.1137366
+  },
+  {
+    "id": "24",
+    "title": "Mexicano que murió atropellado tras huir de ICE en Florida estaba de vacaciones, según autoridades",
+    "link": "https://www.telemundochicago.com/noticias/inmigracion/mexicano-ice-florida-juan-jairo-coronilla-st-augustine/2645955/",
+    "location": "Florida",
+    "source": "Telemundo Chicago",
+    "latitude": 27.7567667,
+    "longitude": -81.4639835
+  },
+  {
+    "id": "25",
+    "title": "Agente de ICE involucrado en tiroteo de Maine tenía antecedentes de violencia, según familiares y registros",
+    "link": "https://www.telemundochicago.com/noticias/inmigracion/agente-ice-tiroteo-maine-antecedentes-comportamiento-violento/2645047/",
+    "location": "Maine",
+    "source": "Telemundo Chicago",
+    "latitude": 45.709097,
+    "longitude": -68.8590201
+  },
+  {
+    "id": "26",
+    "title": "Mapa interactivo: dónde han ocurrido algunos tiroteos e incidentes con agentes de ICE",
+    "link": "https://www.telemundochicago.com/noticias/inmigracion/mapa-tiroteos-incidentes-agentes-ice/2644494/",
+    "location": "Houston, Texas",
+    "source": "Telemundo Chicago",
+    "latitude": 29.7589382,
+    "longitude": -95.3676974
+  },
+  {
+    "id": "27",
+    "title": "Mapa interactivo: dónde han ocurrido algunos tiroteos e incidentes con agentes de ICE",
+    "link": "https://www.telemundochicago.com/noticias/inmigracion/mapa-tiroteos-incidentes-agentes-ice/2644494/",
+    "location": "Maine",
+    "source": "Telemundo Chicago",
+    "latitude": 45.709097,
+    "longitude": -68.8590201
+  },
+  {
+    "id": "28",
+    "title": "ICE suspende temporalmente las persecuciones de vehículos tras muertes de migrantes",
+    "link": "https://www.telemundochicago.com/noticias/inmigracion/suspension-temporal-persecuciones-vehiculos-ice/2644359/",
+    "location": "Maine",
+    "source": "Telemundo Chicago",
+    "latitude": 45.709097,
+    "longitude": -68.8590201
+  },
+  {
+    "id": "29",
+    "title": "ICE suspende temporalmente las persecuciones de vehículos tras muertes de migrantes",
+    "link": "https://www.telemundochicago.com/noticias/inmigracion/suspension-temporal-persecuciones-vehiculos-ice/2644359/",
+    "location": "Texas",
+    "source": "Telemundo Chicago",
+    "latitude": 31.2638905,
+    "longitude": -98.5456116
+  },
+  {
+    "id": "30",
+    "title": "Videos muestran tensos encuentros durante operativos migratorios en Kane y Will",
+    "link": "https://www.telemundochicago.com/noticias/inmigracion/jovenes-denuncian-intimidacion-durante-operativos-migratorios-en-suburbios-de-chicago/2644061/",
+    "location": "Kane County, Illinois",
+    "source": "Telemundo Chicago",
+    "latitude": 41.923434,
+    "longitude": -88.4248315
+  },
+  {
+    "id": "31",
+    "title": "Videos muestran tensos encuentros durante operativos migratorios en Kane y Will",
+    "link": "https://www.telemundochicago.com/noticias/inmigracion/jovenes-denuncian-intimidacion-durante-operativos-migratorios-en-suburbios-de-chicago/2644061/",
+    "location": "Will County, Illinois",
+    "source": "Telemundo Chicago",
+    "latitude": 41.4194058,
+    "longitude": -87.9994754
+  },
+  {
+    "id": "32",
+    "title": "Tiroteo mortal mientras ICE realizaba \"labores de vigilancia selectiva\" en Maine",
+    "link": "https://www.telemundochicago.com/noticias/inmigracion/persona-muere-disparo-incidente-relacionado-ice-maine/2644103/",
+    "location": "Biddeford, Maine",
+    "source": "Telemundo Chicago",
+    "latitude": 43.4925843,
+    "longitude": -70.4533844
+  },
+  {
+    "id": "33",
+    "title": "Organizaciones reportan repunte de detenciones de ICE en Chicago",
+    "link": "https://www.telemundochicago.com/noticias/inmigracion/organizaciones-reportan-repunte-detenciones-ice-chicago/2643225/",
+    "location": "Chicago, Illinois",
+    "source": "Telemundo Chicago",
+    "latitude": 41.8755616,
+    "longitude": -87.6244212
+  },
+  {
+    "id": "34",
+    "title": "Arrestan a agente de ICE buscado por disparar a inmigrante venezolano en protestas de Minnesota",
+    "link": "https://www.telemundochicago.com/noticias/inmigracion/arrestan-agente-ice-texas-buscado-disparar-venezolano-protestas-minnesota/2632582/",
+    "location": "Minnesota",
+    "source": "Telemundo Chicago",
+    "latitude": 45.9896587,
+    "longitude": -94.6113288
   }
 ]
