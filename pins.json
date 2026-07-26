@@ -291,5 +291,86 @@
     "source": "Telemundo Chicago",
     "latitude": 45.9896587,
     "longitude": -94.6113288
+  },
+  {
+    "id": "35",
+    "title": "Agente involucrado en tiroteo mortal contra inmigrante en Maine estaría bajo protección de autoridades",
+    "link": "https://www.telemundo51.com/noticias/inmigracion/ice-tiroteo-maine-agente-involucrado-proteccion-amenazas/2807856/",
+    "location": "Maine",
+    "source": "Telemundo Miami",
+    "latitude": 45.709097,
+    "longitude": -68.8590201
+  },
+  {
+    "id": "36",
+    "title": "Mexicano que murió atropellado tras huir de ICE en Florida estaba de vacaciones, según autoridades",
+    "link": "https://www.telemundo51.com/noticias/inmigracion/mexicano-ice-florida-juan-jairo-coronilla-st-augustine/2806937/",
+    "location": "Georgia",
+    "source": "Telemundo Miami",
+    "latitude": 32.3293809,
+    "longitude": -83.1137366
+  },
+  {
+    "id": "37",
+    "title": "Mexicano que murió atropellado tras huir de ICE en Florida estaba de vacaciones, según autoridades",
+    "link": "https://www.telemundo51.com/noticias/inmigracion/mexicano-ice-florida-juan-jairo-coronilla-st-augustine/2806937/",
+    "location": "Florida",
+    "source": "Telemundo Miami",
+    "latitude": 27.7567667,
+    "longitude": -81.4639835
+  },
+  {
+    "id": "38",
+    "title": "Agente de ICE involucrado en tiroteo de Maine tenía antecedentes de violencia, según familiares y registros",
+    "link": "https://www.telemundo51.com/noticias/inmigracion/agente-ice-tiroteo-maine-antecedentes-comportamiento-violento/2805421/",
+    "location": "Maine",
+    "source": "Telemundo Miami",
+    "latitude": 45.709097,
+    "longitude": -68.8590201
+  },
+  {
+    "id": "39",
+    "title": "Mapa interactivo: dónde han ocurrido algunos tiroteos e incidentes con agentes de ICE",
+    "link": "https://www.telemundo51.com/noticias/inmigracion/mapa-tiroteos-incidentes-agentes-ice/2804520/",
+    "location": "Houston, Texas",
+    "source": "Telemundo Miami",
+    "latitude": 29.7589382,
+    "longitude": -95.3676974
+  },
+  {
+    "id": "40",
+    "title": "Mapa interactivo: dónde han ocurrido algunos tiroteos e incidentes con agentes de ICE",
+    "link": "https://www.telemundo51.com/noticias/inmigracion/mapa-tiroteos-incidentes-agentes-ice/2804520/",
+    "location": "Maine",
+    "source": "Telemundo Miami",
+    "latitude": 45.709097,
+    "longitude": -68.8590201
+  },
+  {
+    "id": "41",
+    "title": "Tiroteo mortal mientras ICE realizaba \"labores de vigilancia selectiva\" en Maine",
+    "link": "https://www.telemundo51.com/noticias/inmigracion/persona-muere-disparo-incidente-relacionado-ice-maine/2803915/",
+    "location": "Biddeford, Maine",
+    "source": "Telemundo Miami",
+    "latitude": 43.4925843,
+    "longitude": -70.4533844
+  },
+  {
+    "id": "42",
+    "title": "Gobierno de Trump prevé deshacerse de algunos almacenes adquiridos para centros de detención",
+    "link": "https://www.telemundo51.com/noticias/inmigracion/gobierno-trump-preve-deshacerse-almacenes-centros-detencion/2796559/",
+    "location": "Michigan",
+    "source": "Telemundo Miami",
+    "latitude": 43.6211955,
+    "longitude": -84.6824346
+  },
+  {
+    "id": "43",
+    "title": "Arrestan a agente de ICE buscado por disparar a inmigrante venezolano en protestas de Minnesota",
+    "link": "https://www.telemundo51.com/noticias/inmigracion/arrestan-agente-ice-texas-buscado-disparar-venezolano-protestas-minnesota/2787290/",
+    "location": "Minnesota",
+    "source": "Telemundo Miami",
+    "latitude": 45.9896587,
+    "longitude": -94.6113288
   }
 ]

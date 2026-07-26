@@ -10,6 +10,8 @@ const anthropic = new Anthropic({
 const FEEDS = [
   { source: 'Telemundo 52', url: 'https://www.telemundo52.com/noticias/inmigracion/?rss=y' },
   { source: 'Telemundo Chicago', url: 'https://www.telemundochicago.com/noticias/inmigracion/?rss=y' },
+  { source: 'Telemundo Miami', url: 'https://www.telemundo51.com/noticias/inmigracion/?rss=y' },
+  { source: 'Univision Miami', url: 'https://rss.app/feeds/5Vc9Yh7izwD14izB.xml' },
 ];
 
 async function fetchArticles(feedUrl, sourceName) {
