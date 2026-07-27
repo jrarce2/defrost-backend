@@ -14,6 +14,10 @@ const FEEDS = [
   { source: 'Univision Miami', url: 'https://rss.app/feeds/5Vc9Yh7izwD14izB.xml' },
 ];
 
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
 async function fetchArticles(feedUrl, sourceName) {
   const response = await fetch(feedUrl);
   const xmlText = await response.text();
@@ -100,8 +104,8 @@ Answer in this exact JSON format, nothing else:
 Be as SPECIFIC as possible using only what's actually stated:
 - If a street, intersection, business, or landmark is mentioned in the description, combine it with the city/state (e.g. "gas station, Willowbrook, Los Angeles, California")
 - If only a neighborhood or city is available, use that with the state
-- Do not guess or add details not actually stated in the text`;
-
+- Do not guess or add details not actually stated
+- All locations are in the United States. Always include the U.S. state (e.g. "Florence, Arizona" not just "Florence")`;
   const message = await anthropic.messages.create({
     model: 'claude-haiku-4-5-20251001',
     max_tokens: 200,
@@ -139,7 +143,8 @@ For locations, be as SPECIFIC as possible using only what's actually stated in t
 - If only a neighborhood is mentioned, use that (e.g. "Panorama City, Los Angeles, California")
 - Only fall back to city, or city+state, if that's genuinely the most specific detail given in the article
 - List every distinct place mentioned where something happened — there may be one, several, or none
-- Do not guess or add details not actually stated in the text`;
+- Do not guess or add details not actually stated in the text
+- All locations are in the United States. Always include the U.S. state, even if the article doesn't explicitly say "USA" (e.g. write "Florence, Arizona" not just "Florence") — use context clues and general knowledge to determine the correct state when it's not explicitly stated`;
 
   const message = await anthropic.messages.create({
     model: 'claude-haiku-4-5-20251001',
@@ -159,26 +164,36 @@ For locations, be as SPECIFIC as possible using only what's actually stated in t
 }
 
 async function geocodeLocation(locationText) {
-  const url = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(
-    locationText
-  )}&format=json&limit=1`;
+  try {
+    const url = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(
+      locationText
+    )}&format=json&limit=1&countrycodes=us`;
 
-  const response = await fetch(url, {
-    headers: {
-      'User-Agent': 'Defrost-App/1.0 (personal project)',
-    },
-  });
+    const response = await fetch(url, {
+      headers: {
+        'User-Agent': 'Defrost-App/1.0 (personal project)',
+      },
+    });
 
-  const results = await response.json();
+    if (!response.ok) {
+      console.log('Geocoding request failed:', response.status);
+      return null;
+    }
 
-  if (results.length === 0) {
+    const results = await response.json();
+
+    if (results.length === 0) {
+      return null;
+    }
+
+    return {
+      latitude: parseFloat(results[0].lat),
+      longitude: parseFloat(results[0].lon),
+    };
+  } catch (error) {
+    console.log('Geocoding error for', locationText, '-', error.message);
     return null;
   }
-
-  return {
-    latitude: parseFloat(results[0].lat),
-    longitude: parseFloat(results[0].lon),
-  };
 }
 
 async function main() {
@@ -218,6 +233,7 @@ async function main() {
         for (const location of analysis.locations) {
           const coords = await geocodeLocation(location);
           console.log(`  → ${location}:`, coords);
+          await sleep(1000);
 
           if (coords) {
             pins.push({
@@ -255,7 +271,7 @@ async function main() {
       for (const location of analysis.locations) {
         const coords = await geocodeLocation(location);
         console.log(`  → ${location}:`, coords);
-
+        await sleep(1000);
         if (coords) {
           pins.push({
             id: `${pins.length}`,
