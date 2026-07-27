@@ -804,5 +804,32 @@
     "source": "Univision Miami",
     "latitude": 41.0461864,
     "longitude": -74.3177933
+  },
+  {
+    "id": "92",
+    "title": "Iba camino a misa y terminó detenida por ICE",
+    "link": "https://www.univision.com/noticias/iba-camino-a-misa-y-termino-detenida-por-ice-video-vertical",
+    "location": "McAllen, Texas",
+    "source": "Univision Miami",
+    "latitude": 26.204114,
+    "longitude": -98.2300605
+  },
+  {
+    "id": "93",
+    "title": "Iba camino a misa y terminó detenida por ICE",
+    "link": "https://www.univision.com/noticias/iba-camino-a-misa-y-termino-detenida-por-ice-video-vertical",
+    "location": "Brownsville, Texas",
+    "source": "Univision Miami",
+    "latitude": 25.9024289,
+    "longitude": -97.4981698
+  },
+  {
+    "id": "94",
+    "title": "Iba camino a misa y terminó detenida por ICE",
+    "link": "https://www.univision.com/noticias/iba-camino-a-misa-y-termino-detenida-por-ice-video-vertical",
+    "location": "Passaic, New Jersey",
+    "source": "Univision Miami",
+    "latitude": 41.0461864,
+    "longitude": -74.3177933
   }
 ]
