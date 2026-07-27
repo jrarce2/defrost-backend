@@ -894,5 +894,23 @@
     "source": "Univision Miami",
     "latitude": 45.5202471,
     "longitude": -122.674194
+  },
+  {
+    "id": "102",
+    "title": "ICE prepara un operativo para la detención y deportación de más de 300,000 haitianos tras fin del TPS, según reportes",
+    "link": "https://www.univision.com/noticias/inmigracion/ice-prepara-un-operativo-para-la-detencion-y-deportacion-de-mas-de-300-000-haitianos-tras-fin-del-tps-segun-reportes",
+    "location": "Springfield, Ohio",
+    "source": "Univision Miami",
+    "latitude": 39.9234046,
+    "longitude": -83.810138
+  },
+  {
+    "id": "103",
+    "title": "ICE prepara un operativo para la detención y deportación de más de 300,000 haitianos tras fin del TPS, según reportes",
+    "link": "https://www.univision.com/noticias/inmigracion/ice-prepara-un-operativo-para-la-detencion-y-deportacion-de-mas-de-300-000-haitianos-tras-fin-del-tps-segun-reportes",
+    "location": "Ohio",
+    "source": "Univision Miami",
+    "latitude": 40.2253569,
+    "longitude": -82.6881395
   }
 ]
