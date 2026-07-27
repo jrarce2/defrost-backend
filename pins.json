@@ -660,5 +660,86 @@
     "source": "Wikipedia ICE Tracker",
     "latitude": 43.4925843,
     "longitude": -70.4533844
+  },
+  {
+    "id": "76",
+    "title": "Evaluación a agente de ICE está bajo revisión tras muerte de colombiano en Maine",
+    "link": "https://www.telemundo52.com/noticias/inmigracion/evaluacion-agente-ice-bajo-revision-muerte-colombiano-maine/2883878/",
+    "location": "Biddeford, Maine",
+    "source": "Telemundo 52",
+    "latitude": 43.4925843,
+    "longitude": -70.4533844
+  },
+  {
+    "id": "77",
+    "title": "Evaluación a agente de ICE está bajo revisión tras muerte de colombiano en Maine",
+    "link": "https://www.telemundo52.com/noticias/inmigracion/evaluacion-agente-ice-bajo-revision-muerte-colombiano-maine/2883878/",
+    "location": "Houston, Texas",
+    "source": "Telemundo 52",
+    "latitude": 29.7589382,
+    "longitude": -95.3676974
+  },
+  {
+    "id": "78",
+    "title": "Evaluación a agente de ICE está bajo revisión tras muerte de colombiano en Maine",
+    "link": "https://www.telemundo52.com/noticias/inmigracion/evaluacion-agente-ice-bajo-revision-muerte-colombiano-maine/2883878/",
+    "location": "Minneapolis, Minnesota",
+    "source": "Telemundo 52",
+    "latitude": 44.9772995,
+    "longitude": -93.2654692
+  },
+  {
+    "id": "79",
+    "title": "Evaluación a agente de ICE está bajo revisión tras muerte de colombiano en Maine",
+    "link": "https://www.telemundochicago.com/noticias/inmigracion/evaluacion-agente-ice-bajo-revision-muerte-colombiano-maine/2646844/",
+    "location": "Biddeford, Maine",
+    "source": "Telemundo Chicago",
+    "latitude": 43.4925843,
+    "longitude": -70.4533844
+  },
+  {
+    "id": "80",
+    "title": "Evaluación a agente de ICE está bajo revisión tras muerte de colombiano en Maine",
+    "link": "https://www.telemundochicago.com/noticias/inmigracion/evaluacion-agente-ice-bajo-revision-muerte-colombiano-maine/2646844/",
+    "location": "Houston, Texas",
+    "source": "Telemundo Chicago",
+    "latitude": 29.7589382,
+    "longitude": -95.3676974
+  },
+  {
+    "id": "81",
+    "title": "Evaluación a agente de ICE está bajo revisión tras muerte de colombiano en Maine",
+    "link": "https://www.telemundochicago.com/noticias/inmigracion/evaluacion-agente-ice-bajo-revision-muerte-colombiano-maine/2646844/",
+    "location": "Minneapolis, Minnesota",
+    "source": "Telemundo Chicago",
+    "latitude": 44.9772995,
+    "longitude": -93.2654692
+  },
+  {
+    "id": "82",
+    "title": "Evaluación a agente de ICE está bajo revisión tras muerte de colombiano en Maine",
+    "link": "https://www.telemundo51.com/noticias/inmigracion/evaluacion-agente-ice-bajo-revision-muerte-colombiano-maine/2808081/",
+    "location": "Biddeford, Maine",
+    "source": "Telemundo Miami",
+    "latitude": 43.4925843,
+    "longitude": -70.4533844
+  },
+  {
+    "id": "83",
+    "title": "Evaluación a agente de ICE está bajo revisión tras muerte de colombiano en Maine",
+    "link": "https://www.telemundo51.com/noticias/inmigracion/evaluacion-agente-ice-bajo-revision-muerte-colombiano-maine/2808081/",
+    "location": "Houston, Texas",
+    "source": "Telemundo Miami",
+    "latitude": 29.7589382,
+    "longitude": -95.3676974
+  },
+  {
+    "id": "84",
+    "title": "Evaluación a agente de ICE está bajo revisión tras muerte de colombiano en Maine",
+    "link": "https://www.telemundo51.com/noticias/inmigracion/evaluacion-agente-ice-bajo-revision-muerte-colombiano-maine/2808081/",
+    "location": "Minneapolis, Minnesota",
+    "source": "Telemundo Miami",
+    "latitude": 44.9772995,
+    "longitude": -93.2654692
   }
 ]
