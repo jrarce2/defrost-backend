@@ -741,5 +741,68 @@
     "source": "Telemundo Miami",
     "latitude": 44.9772995,
     "longitude": -93.2654692
+  },
+  {
+    "id": "85",
+    "title": "Exigen respuestas tras la muerte de hombre bajo custodia de ICE",
+    "link": "https://www.univision.com/noticias/exigen-respuestas-tras-la-muerte-de-hombre-bajo-custodia-de-ice-video-vertical",
+    "location": "Georgia",
+    "source": "Univision Miami",
+    "latitude": 32.3293809,
+    "longitude": -83.1137366
+  },
+  {
+    "id": "86",
+    "title": "Exigen respuestas tras la muerte de hombre bajo custodia de ICE",
+    "link": "https://www.univision.com/noticias/exigen-respuestas-tras-la-muerte-de-hombre-bajo-custodia-de-ice-video-vertical",
+    "location": "Brownsville, Texas",
+    "source": "Univision Miami",
+    "latitude": 25.9024289,
+    "longitude": -97.4981698
+  },
+  {
+    "id": "87",
+    "title": "Exigen respuestas tras la muerte de hombre bajo custodia de ICE",
+    "link": "https://www.univision.com/noticias/exigen-respuestas-tras-la-muerte-de-hombre-bajo-custodia-de-ice-video-vertical",
+    "location": "Passaic, New Jersey",
+    "source": "Univision Miami",
+    "latitude": 41.0461864,
+    "longitude": -74.3177933
+  },
+  {
+    "id": "88",
+    "title": "Ballenas beluga llegan a su nuevo hogar",
+    "link": "https://www.univision.com/noticias/ballenas-beluga-llegan-a-su-nuevo-hogar-video-vertical",
+    "location": "Brownsville, Texas",
+    "source": "Univision Miami",
+    "latitude": 25.9024289,
+    "longitude": -97.4981698
+  },
+  {
+    "id": "89",
+    "title": "Ballenas beluga llegan a su nuevo hogar",
+    "link": "https://www.univision.com/noticias/ballenas-beluga-llegan-a-su-nuevo-hogar-video-vertical",
+    "location": "Passaic, New Jersey",
+    "source": "Univision Miami",
+    "latitude": 41.0461864,
+    "longitude": -74.3177933
+  },
+  {
+    "id": "90",
+    "title": "El conmovedor reencuentro de una perrita desaparecida con su familia",
+    "link": "https://www.univision.com/noticias/el-conmovedor-reencuentro-de-una-perrita-desaparecida-con-su-familia-video-vertical",
+    "location": "Brownsville, Texas",
+    "source": "Univision Miami",
+    "latitude": 25.9024289,
+    "longitude": -97.4981698
+  },
+  {
+    "id": "91",
+    "title": "El conmovedor reencuentro de una perrita desaparecida con su familia",
+    "link": "https://www.univision.com/noticias/el-conmovedor-reencuentro-de-una-perrita-desaparecida-con-su-familia-video-vertical",
+    "location": "Passaic, New Jersey",
+    "source": "Univision Miami",
+    "latitude": 41.0461864,
+    "longitude": -74.3177933
   }
 ]
