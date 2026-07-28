@@ -2238,5 +2238,35 @@
     "date": "2026-07-13T05:00:00.000Z",
     "latitude": 43.4925843,
     "longitude": -70.4533844
+  },
+  {
+    "id": "224",
+    "title": "Juez ordena liberar a testigo del operativo de ICE donde murió un mexicano en Texas",
+    "link": "https://www.telemundo52.com/noticias/inmigracion/orden-liberacion-testigo-ice-48-horas/2884170/",
+    "location": "Houston, Texas",
+    "source": "Telemundo 52",
+    "date": "2026-07-27T19:06:51.000Z",
+    "latitude": 29.7589382,
+    "longitude": -95.3676974
+  },
+  {
+    "id": "225",
+    "title": "Juez ordena liberar a testigo del operativo de ICE donde murió un mexicano en Texas",
+    "link": "https://www.telemundochicago.com/noticias/inmigracion/orden-liberacion-testigo-ice-48-horas/2646996/",
+    "location": "Houston, Texas",
+    "source": "Telemundo Chicago",
+    "date": "2026-07-27T21:06:51.000Z",
+    "latitude": 29.7589382,
+    "longitude": -95.3676974
+  },
+  {
+    "id": "226",
+    "title": "Juez ordena liberar a testigo del operativo de ICE donde murió un mexicano en Texas",
+    "link": "https://www.telemundo51.com/noticias/inmigracion/orden-liberacion-testigo-ice-48-horas/2808405/",
+    "location": "Houston, Texas",
+    "source": "Telemundo Miami",
+    "date": "2026-07-27T22:06:51.000Z",
+    "latitude": 29.7589382,
+    "longitude": -95.3676974
   }
 ]
