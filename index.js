@@ -35,6 +35,7 @@ async function fetchArticles(feedUrl, sourceName) {
     link: item.link,
     excerpt: item.excerpt || '',
     source: sourceName,
+    date: item.pubDate ? new Date(item.pubDate).toISOString() : null,
   }));
 }
 
@@ -146,6 +147,8 @@ For locations, be as SPECIFIC as possible using only what's actually stated in t
 - Do not guess or add details not actually stated in the text
 - All locations are in the United States. Always include the U.S. state, even if the article doesn't explicitly say "USA" (e.g. write "Florence, Arizona" not just "Florence") — use context clues and general knowledge to determine the correct state when it's not explicitly stated`;
 
+- If the article's title is clearly about something unrelated to immigration (e.g., animals, weather, sports, entertainment) but the content you were given mentions ICE/immigration in what looks like an unrelated sidebar, advertisement, or "related stories" section, treat it as NOT is_ice_related — trust the title as the actual topic when there's a mismatch.
+
   const message = await anthropic.messages.create({
     model: 'claude-haiku-4-5-20251001',
     max_tokens: 400,
@@ -242,6 +245,7 @@ async function main() {
               link: article.link,
               location: location,
               source: article.source,
+              date: article.date,
               latitude: coords.latitude,
               longitude: coords.longitude,
             });
@@ -279,6 +283,7 @@ async function main() {
             link: 'https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration',
             location: location,
             source: 'Wikipedia ICE Tracker',
+            date: new Date(incident.date).toString() !== 'Invalid Date' ? new Date(incident.date).toISOString() : null,
             latitude: coords.latitude,
             longitude: coords.longitude,
           });
