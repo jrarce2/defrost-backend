@@ -145,9 +145,8 @@ For locations, be as SPECIFIC as possible using only what's actually stated in t
 - Only fall back to city, or city+state, if that's genuinely the most specific detail given in the article
 - List every distinct place mentioned where something happened — there may be one, several, or none
 - Do not guess or add details not actually stated in the text
-- All locations are in the United States. Always include the U.S. state, even if the article doesn't explicitly say "USA" (e.g. write "Florence, Arizona" not just "Florence") — use context clues and general knowledge to determine the correct state when it's not explicitly stated`;
-
-- If the article's title is clearly about something unrelated to immigration (e.g., animals, weather, sports, entertainment) but the content you were given mentions ICE/immigration in what looks like an unrelated sidebar, advertisement, or "related stories" section, treat it as NOT is_ice_related — trust the title as the actual topic when there's a mismatch.
+- All locations are in the United States. Always include the U.S. state, even if the article doesn't explicitly say "USA" (e.g. write "Florence, Arizona" not just "Florence") — use context clues and general knowledge to determine the correct state when it's not explicitly stated
+- If the article's title is clearly about something unrelated to immigration (e.g., animals, weather, sports, entertainment) but the content you were given mentions ICE/immigration in what looks like an unrelated sidebar, advertisement, or "related stories" section, treat it as NOT is_ice_related — trust the title as the actual topic when there's a mismatch`;
 
   const message = await anthropic.messages.create({
     model: 'claude-haiku-4-5-20251001',
