@@ -912,5 +912,335 @@
     "source": "Univision Miami",
     "latitude": 40.2253569,
     "longitude": -82.6881395
+  },
+  {
+    "id": "104",
+    "title": "CBP officers and Mexican cartel members were involved in a shootout near the border. No injuries were reported.[5]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Fronton, Texas",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2025-01-27T00:00:00.000Z",
+    "latitude": 26.4081498,
+    "longitude": -99.0840063
+  },
+  {
+    "id": "105",
+    "title": "A CBP agent \"discharged his service-issued weapon\" while \"responding to suspected smuggling activity\" in the Boca Chica area. The agent was not harmed, but one person sustained a gunshot wound and received medical attention.[6]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Boca Chica area, Cameron County, Texas",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2025-02-12T00:00:00.000Z",
+    "latitude": 25.9749278,
+    "longitude": -97.1849574
+  },
+  {
+    "id": "106",
+    "title": "An ICE Homeland Security Investigations agent shot a U.S. citizen, Ruben Ray Martinez, stating he had rammed his car into another agent. Despite occurring in March 2025, ICE involvement in the shooting was not publicly uncovered until February 2026 via Freedom of Information Act requests from American Oversight.[7][8] A few days after the revelation, a key civilian witness to the shooting was killed in a car crash.[9] The eventual release of body-worn camera footage did not corroborate ICE's claim that the driver rammed his car into agents.[10]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "South Padre Island, Texas",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2025-03-15T00:00:00.000Z",
+    "latitude": 26.1036887,
+    "longitude": -97.1646938
+  },
+  {
+    "id": "107",
+    "title": "Officers with the Texas Department of Public Safety, Brownsville Police Department, and CBP were engaged in a pursuit and shootout with 25-year-old Alberto Pintor, Jr., who was shot twice in the incident.[11][12]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Brownsville, Texas",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2025-05-13T00:00:00.000Z",
+    "latitude": 25.9024289,
+    "longitude": -97.4981698
+  },
+  {
+    "id": "108",
+    "title": "Two undocumented immigrants allegedly attempted to rob an off-duty CBP agent in Washington Heights. The officer and the other two individuals then engaged in a shootout, which led to the injury of the officer and 21-year-old Dominican migrant Miguel Francisco Mora Nuñez.[15][16] DHS Secretary Kristi Noem later stated that these two migrants were members of the Trinitarios gang, and cited this incident in relation to Operation Salvo.[17]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Washington Heights, New York",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2025-07-19T00:00:00.000Z",
+    "latitude": 40.8401984,
+    "longitude": -73.9402214
+  },
+  {
+    "id": "109",
+    "title": "An ICE agent fired three shots at two people in a vehicle, whom ICE described as \"aliens\". An ICE spokesperson said the driver attempted to ram agents with his vehicle. The two people fled the scene.[18] ICE later arrested one of the individuals, Francisco Zapata-Pacheco.[19]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Black Forest, Colorado",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2025-07-31T00:00:00.000Z",
+    "latitude": 39.0140025,
+    "longitude": -104.70114
+  },
+  {
+    "id": "110",
+    "title": "Masked immigration agents broke Francisco Longoria's car window and fired three shots at his car during a traffic stop, nearly striking his 18-year-old son. Longoria fled in his car and called 911, as he did not know the identities of the men who had shot at him. CBP stated he drove toward the officers, and that two CBP agents were injured. Longoria was charged with assaulting a federal officer with a deadly weapon, but the government dropped the charges when prosecutors were unable to support the officer's description of the incident.[20][21][22]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "San Bernardino, California",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2025-08-16T00:00:00.000Z",
+    "latitude": 34.8253019,
+    "longitude": -116.0833144
+  },
+  {
+    "id": "111",
+    "title": "Plainclothes CBP agents shot and killed a rottweiler in a home. The dog was in a bathroom for its own safety when officers let it out, then shot it. The agents were at the home in connection to a tip about a \"migrant smuggling operation\" from previous owners of the home.[23]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "El Paso, Texas",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2025-09-09T00:00:00.000Z",
+    "latitude": 31.7601001,
+    "longitude": -106.4870476
+  },
+  {
+    "id": "112",
+    "title": "An ICE agent shot and killed an undocumented Mexican immigrant named Silverio Villegas González who was allegedly attempting to flee a traffic stop. DHS claimed that Villegas González hit and dragged an officer with his vehicle,[24] but video analysis by the New York Times contradicted that claim.[25][26]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Chicago, Illinois",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2025-09-12T00:00:00.000Z",
+    "latitude": 41.8755616,
+    "longitude": -87.6244212
+  },
+  {
+    "id": "113",
+    "title": "An ICE agent shot a US citizen named Marimar Martinez five times and accused her of ramming into ICE agents. Martinez survived the shooting, and charges that were filed against her were later dismissed. Agents also stated that Martinez was \"armed with a semi-automatic weapon\", although this was not mentioned in the charges against her.[27][28]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Chicago, Illinois",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2025-10-04T00:00:00.000Z",
+    "latitude": 41.8755616,
+    "longitude": -87.6244212
+  },
+  {
+    "id": "114",
+    "title": "During a surge in federal law enforcement in Washington, a Homeland Security Investigations (HSI) agent shot at Phillip Brown, an unarmed African-American U.S. citizen, during a traffic stop. Authorities stated the man nearly hit officers while fleeing the scene, and he was charged with fleeing from law enforcement, but the charge was dismissed. A police report filed in the criminal case did not mention the shooting[29] and the judge said the agent had fired his weapon \"for reasons that are completely unclear to me\".[22]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Washington, District of Columbia",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2025-10-17T00:00:00.000Z",
+    "latitude": 38.8950982,
+    "longitude": -77.0363849
+  },
+  {
+    "id": "115",
+    "title": "ICE agents attempted to arrest a TikTok streamer from Mexico who frequently filmed ICE operations. During the arrest, an ICE agent's gun went off, striking the streamer and a U.S. Marshal who was assisting the operation. DHS stated that the streamer had attempted to ram vehicles, but the indictment against him was dropped in December 2025.[30][31]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Los Angeles, California",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2025-10-21T00:00:00.000Z",
+    "latitude": 34.0536909,
+    "longitude": -118.242766
+  },
+  {
+    "id": "116",
+    "title": "ICE officers pulled over a man from Honduras in North Phoenix. ICE said the man attempted to speed away, leading an officer who was in the vehicle's path to shoot him. The man's vehicle was struck and he was injured, but it is unclear whether he was also shot or if he was otherwise wounded in the traffic accident.[32]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "North Phoenix, Arizona",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2025-10-29T00:00:00.000Z",
+    "latitude": 32.2581248,
+    "longitude": -109.8356759
+  },
+  {
+    "id": "117",
+    "title": "During an ICE operation, Carlos Jimenez, an American citizen, stopped by ICE officers in his truck to warn them there would soon be children in the area. An officer threatened Jimenez with a gun and told him to leave. After reversing, Jimenez pulled forward, whereupon the ICE agent shot and injured him.[33] ICE stated Jimenez attempted to hit officers while reversing, while Jimenez's attorneys said he was performing a three-point turn.[34]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Ontario, California",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2025-10-30T00:00:00.000Z",
+    "latitude": 34.065846,
+    "longitude": -117.64843
+  },
+  {
+    "id": "118",
+    "title": "An HSI agent and a D.C. Police officer pulled over a man for running a red light. During the chase, the agent shot at the car when the driver allegedly reversed it into a police cruiser.[35]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Washington, District of Columbia",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2025-11-13T00:00:00.000Z",
+    "latitude": 38.8950982,
+    "longitude": -77.0363849
+  },
+  {
+    "id": "119",
+    "title": "CBP agents encountered a group of pedestrians who were dressed in camouflage clothing. After the agents identified themselves as CBP, the group attempted to flee on foot. Agents were reportedly engaged in a fight with a 31-year-old Mexican man whom they had attempted to detain, whom they then shot and killed.[36][37]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Rio Grande City, Texas",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2025-12-11T00:00:00.000Z",
+    "latitude": 26.3827771,
+    "longitude": -98.8205251
+  },
+  {
+    "id": "120",
+    "title": "ICE attempted to arrest an undocumented Cuban man during a traffic stop. ICE said the man drove towards officers, hitting one, leading an officer to shoot at him. The man was charged with assault on a federal officer; the indictment also said the man bit an officer.[39]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Saint Paul, Minnesota",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2025-12-21T00:00:00.000Z",
+    "latitude": 44.9497487,
+    "longitude": -93.0931028
+  },
+  {
+    "id": "121",
+    "title": "ICE agents detained two men who were suspected of being in the country illegally. Agents shot one of the men when he attempted to flee, with ICE stating he attempted to run over officers in a van. The passenger was injured in the crash; initial reports said he was in the passenger's seat of the van, but local officials later said he was in an ICE vehicle when he was injured.[40]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Glen Burnie, Maryland",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2025-12-24T00:00:00.000Z",
+    "latitude": 39.1595439,
+    "longitude": -76.6151514
+  },
+  {
+    "id": "122",
+    "title": "In the neighborhood of Northridge, an off-duty ICE agent shot and killed Keith Porter, a 43-year-old Black father of two, alleging that Porter had shot at him. Porter's family said he had been firing shots outside as part of a New Year's Eve celebration and did not pose a threat to anyone.[41] Lawyers for Porter's family requested that the California Attorney General's office conduct an investigation into the killing.[42][43]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Northridge, Los Angeles, California",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2025-12-31T00:00:00.000Z",
+    "latitude": 34.2345615,
+    "longitude": -118.5369316
+  },
+  {
+    "id": "123",
+    "title": "A masked ICE agent shot a motorist, U.S. citizen Renée Good, three times on a Minneapolis street when she reversed then drove forward. Agents stated that Good was attempting to ram them with her vehicle. Good died of her injuries.[44]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Minneapolis street, Minneapolis, Minnesota",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2026-01-07T00:00:00.000Z",
+    "latitude": 44.9863418,
+    "longitude": -93.1794451
+  },
+  {
+    "id": "124",
+    "title": "A CBP agent shot two people, Luis David Nico Moncada and Yorlenys Betzabeth Zambrano-Contreras, during a traffic stop. DHS said both entered the United States illegally from Venezuela, and stated that the shooting was in self-defense because Moncada was attempting to ram them with his vehicle.[45][46][47] DHS furthermore stated both were \"suspected Tren de Aragua gang associates\".[46][48]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Portland, Oregon",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2026-01-08T00:00:00.000Z",
+    "latitude": 45.5202471,
+    "longitude": -122.674194
+  },
+  {
+    "id": "125",
+    "title": "An ICE agent shot Julio C. Sosa-Celis in the leg during an operation in North Minneapolis.[49][50] At the time, DHS alleged that the agent had been \"ambushed and attacked\" while performing an arrest[51] and two individuals were charged, though inconsistencies emerged in the government's account of events. On February 12, 2026, a federal prosecutor admitted that \"newly discovered evidence in this matter is materially inconsistent with the allegations\" and charges were dropped.[52]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "North Minneapolis, Minnesota",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2026-01-14T00:00:00.000Z",
+    "latitude": 45.0168233,
+    "longitude": -93.2852208
+  },
+  {
+    "id": "126",
+    "title": "A DHS agent shot at an undocumented man during a targeted operation that entailed a car pursuit and a crash. DHS stated that the officer shot at the man because he \"weaponized his vehicle and rammed law enforcement\" and that a CBP officer was injured.[53]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Willowbrook, California",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2026-01-21T00:00:00.000Z",
+    "latitude": 33.9204209,
+    "longitude": -118.2418543
+  },
+  {
+    "id": "127",
+    "title": "A Border Patrol agent shot and injured a person, who was engaged in a shootout with a Border Patrol helicopter and agents.[59]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Arivaca, Arizona",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2026-01-27T00:00:00.000Z",
+    "latitude": 31.5769832,
+    "longitude": -111.3306751
+  },
+  {
+    "id": "128",
+    "title": "An ICE agent shot the tires of vehicle while apprehending a suspect. DHS stated that the man was evading arrest and attempted to run over the officer. The New Jersey Attorney General's office is investigating the incident.[60]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Roxbury, New Jersey",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2026-02-10T00:00:00.000Z",
+    "latitude": 39.9787625,
+    "longitude": -74.5615924
+  },
+  {
+    "id": "129",
+    "title": "ICE agents pulled over a man from El Salvador, who they stated was a gang member wanted for murder in El Salvador, though his attorney said he had been acquitted. Agents shot at the man during the stop, during which he attempted to drive away, though it is unclear when exactly the shots were fired. The man was charged with assaulting a federal officer.[62][63]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Patterson, California",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2026-04-07T00:00:00.000Z",
+    "latitude": 37.471623,
+    "longitude": -121.1296949
+  },
+  {
+    "id": "130",
+    "title": "A woman called 911 for help with her suicidal son, who had a handgun. Federal agents with the Memphis Safe Task Force responded, and an HSI agent shot the son. An investigation is ongoing to determine whether he died from the gunshot or from self-inflicted wounds.[64]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Memphis, Tennessee",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2026-05-20T00:00:00.000Z",
+    "latitude": 35.146026,
+    "longitude": -90.0517786
+  },
+  {
+    "id": "131",
+    "title": "An ICE agent shot at a vehicle that reportedly struck him during a traffic stop. The driver left the scene and it is unknown if they were hit by gunfire.[65]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Manahawkin, New Jersey",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2026-06-15T00:00:00.000Z",
+    "latitude": 39.690518,
+    "longitude": -74.2486427
+  },
+  {
+    "id": "132",
+    "title": "A Border Patrol agent shot a man while responding to an assault call. Few details were released.[66]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Blaine, Washington",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2026-06-16T00:00:00.000Z",
+    "latitude": 48.9881108,
+    "longitude": -122.743575
+  },
+  {
+    "id": "133",
+    "title": "ICE agents shot at a man as he attempted to flee from them during a traffic stop. ICE said the man tried to ram agents with his car, but footage reviewed by PennLive did not show this, instead showing the man trying to drive around an ICE vehicle.[67]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Harrisburg, Pennsylvania",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2026-07-01T00:00:00.000Z",
+    "latitude": 40.2663107,
+    "longitude": -76.8861122
+  },
+  {
+    "id": "134",
+    "title": "ICE agents shot and killed Mexican national Lorenzo Salgado Araujo after pulling his vehicle over. ICE said Salgado Araujo attempted to ram agents with his car,[68] but three witnesses contradicted that claim.[69]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Houston, Texas",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2026-07-07T00:00:00.000Z",
+    "latitude": 29.7589382,
+    "longitude": -95.3676974
+  },
+  {
+    "id": "135",
+    "title": "A Border Patrol agent shot and killed a man who stabbed him. Few details were released.[70]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Yuma, Arizona",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2026-07-10T00:00:00.000Z",
+    "latitude": 32.7254216,
+    "longitude": -114.6198088
+  },
+  {
+    "id": "136",
+    "title": "An ICE agent shot and killed 26 year old Colombian national Joan Sebastian Guerrero. ICE said the agent shot Guerrero as he attempted to drive away.[71][72]",
+    "link": "https://en.wikipedia.org/wiki/List_of_shootings_by_U.S._immigration_agents_in_the_second_Trump_administration",
+    "location": "Biddeford, Maine",
+    "source": "Wikipedia ICE Tracker",
+    "date": "2026-07-13T00:00:00.000Z",
+    "latitude": 43.4925843,
+    "longitude": -70.4533844
   }
 ]
