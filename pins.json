@@ -2298,5 +2298,25 @@
     "date": "2026-07-29T14:22:00.000Z",
     "latitude": 40.7135078,
     "longitude": -73.8283132
+  },
+  {
+    "id": "230",
+    "title": "Tener una identificación válida \"ya no es una protección\": advierten sobre arrestos de inmigrantes en aeropuertos",
+    "link": "https://www.univision.com/noticias/tener-una-identificacion-valida-ya-no-es-una-proteccion-advierten-sobre-arrestos-de-inmigrantes-en-aeropuertos-video",
+    "location": "Los Angeles, California",
+    "source": "Univision Miami",
+    "date": "2026-07-29T18:24:46.000Z",
+    "latitude": 34.0536909,
+    "longitude": -118.242766
+  },
+  {
+    "id": "231",
+    "title": "Hablemos de Inmigración: ¿ICE arresta a solicitantes de asilo con formularios incompletos?",
+    "link": "https://www.univision.com/noticias/hablemos-de-inmigracion-ice-arresta-a-solicitantes-de-asilo-con-formularios-incompletos-video",
+    "location": "a roadway, United States",
+    "source": "Univision Miami",
+    "date": "2026-07-29T17:52:19.000Z",
+    "latitude": 42.2927677,
+    "longitude": -71.1817701
   }
 ]
