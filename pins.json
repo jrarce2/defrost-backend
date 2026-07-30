@@ -2448,5 +2448,35 @@
     "date": "2026-07-29T16:01:36.000Z",
     "latitude": 41.9442357,
     "longitude": -87.6541725
+  },
+  {
+    "id": "245",
+    "title": "Liberan a testigo del operativo de ICE donde murió un mexicano en Texas",
+    "link": "https://www.telemundo52.com/noticias/inmigracion/liberan-testigo-caso-lorenzo-salgado/2884835/",
+    "location": "Houston, Texas",
+    "source": "Telemundo 52",
+    "date": "2026-07-29T10:43:46.000Z",
+    "latitude": 29.7589382,
+    "longitude": -95.3676974
+  },
+  {
+    "id": "246",
+    "title": "Liberan a testigo del operativo de ICE donde murió un mexicano en Texas",
+    "link": "https://www.telemundochicago.com/noticias/inmigracion/liberan-testigo-caso-lorenzo-salgado/2647422/",
+    "location": "Houston, Texas",
+    "source": "Telemundo Chicago",
+    "date": "2026-07-29T12:43:46.000Z",
+    "latitude": 29.7589382,
+    "longitude": -95.3676974
+  },
+  {
+    "id": "247",
+    "title": "Liberan a testigo del operativo de ICE donde murió un mexicano en Texas",
+    "link": "https://www.telemundo51.com/noticias/inmigracion/liberan-testigo-caso-lorenzo-salgado/2809105/",
+    "location": "Houston, Texas",
+    "source": "Telemundo Miami",
+    "date": "2026-07-29T13:43:46.000Z",
+    "latitude": 29.7589382,
+    "longitude": -95.3676974
   }
 ]
