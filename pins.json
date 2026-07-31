@@ -2488,5 +2488,55 @@
     "date": "2026-07-30T17:26:00.000Z",
     "latitude": 25.7741566,
     "longitude": -80.1935973
+  },
+  {
+    "id": "249",
+    "title": "\"Una emboscada psicológica\": Marina del Pilar sobre audios filtrados",
+    "link": "https://www.univision.com/noticias/una-emboscada-psicologica-marina-del-pilar-sobre-audios-filtrados-video-vertical",
+    "location": "El Chaparral, California",
+    "source": "Univision Miami",
+    "date": "2026-07-30T22:15:00.000Z",
+    "latitude": 34.0779593,
+    "longitude": -117.6904798
+  },
+  {
+    "id": "250",
+    "title": "\"Una emboscada psicológica\": Marina del Pilar sobre audios filtrados",
+    "link": "https://www.univision.com/noticias/una-emboscada-psicologica-marina-del-pilar-sobre-audios-filtrados-video-vertical",
+    "location": "Queens, New York",
+    "source": "Univision Miami",
+    "date": "2026-07-30T22:15:00.000Z",
+    "latitude": 40.7135078,
+    "longitude": -73.8283132
+  },
+  {
+    "id": "251",
+    "title": "\"Una emboscada psicológica\": Marina del Pilar sobre audios filtrados",
+    "link": "https://www.univision.com/noticias/una-emboscada-psicologica-marina-del-pilar-sobre-audios-filtrados-video-vertical",
+    "location": "26 Federal Plaza, New York",
+    "source": "Univision Miami",
+    "date": "2026-07-30T22:15:00.000Z",
+    "latitude": 40.7154682,
+    "longitude": -74.0042025
+  },
+  {
+    "id": "252",
+    "title": "\"No sé si estoy siendo investigada por EEUU\": Marina del Pilar",
+    "link": "https://www.univision.com/noticias/no-se-si-estoy-siendo-investigada-por-eeuu-marina-del-pilar-video-vertical",
+    "location": "Queens, New York",
+    "source": "Univision Miami",
+    "date": "2026-07-30T22:08:00.000Z",
+    "latitude": 40.7135078,
+    "longitude": -73.8283132
+  },
+  {
+    "id": "253",
+    "title": "\"No sé si estoy siendo investigada por EEUU\": Marina del Pilar",
+    "link": "https://www.univision.com/noticias/no-se-si-estoy-siendo-investigada-por-eeuu-marina-del-pilar-video-vertical",
+    "location": "26 Federal Plaza, New York, New York",
+    "source": "Univision Miami",
+    "date": "2026-07-30T22:08:00.000Z",
+    "latitude": 40.7154682,
+    "longitude": -74.0042025
   }
 ]
