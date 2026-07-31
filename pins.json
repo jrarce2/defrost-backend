@@ -2668,5 +2668,25 @@
     "date": "2026-07-31T16:28:00.000Z",
     "latitude": 39.7837304,
     "longitude": -100.445882
+  },
+  {
+    "id": "267",
+    "title": "Hablemos de inmigración: Todo lo que se sabe del plan del gobierno Trump para cobrar una tarifa a estudiantes extranjeros",
+    "link": "https://www.univision.com/noticias/hablemos-de-inmigracion-todo-lo-que-se-sabe-del-plan-del-gobierno-trump-para-cobrar-tarifa-a-estudiantes-extranjeros-video",
+    "location": "Los Angeles, California",
+    "source": "Univision Miami",
+    "date": "2026-07-31T18:02:00.000Z",
+    "latitude": 34.0536909,
+    "longitude": -118.242766
+  },
+  {
+    "id": "268",
+    "title": "Hablemos de inmigración: Todo lo que se sabe del plan del gobierno Trump para cobrar una tarifa a estudiantes extranjeros",
+    "link": "https://www.univision.com/noticias/hablemos-de-inmigracion-todo-lo-que-se-sabe-del-plan-del-gobierno-trump-para-cobrar-tarifa-a-estudiantes-extranjeros-video",
+    "location": "Houston, Texas",
+    "source": "Univision Miami",
+    "date": "2026-07-31T18:02:00.000Z",
+    "latitude": 29.7589382,
+    "longitude": -95.3676974
   }
 ]
