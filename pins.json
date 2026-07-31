@@ -2538,5 +2538,65 @@
     "date": "2026-07-30T22:08:00.000Z",
     "latitude": 40.7154682,
     "longitude": -74.0042025
+  },
+  {
+    "id": "254",
+    "title": "Le cancelaron DACA por un \"viaje no autorizado\"; demanda al gobierno tras ser deportada",
+    "link": "https://www.telemundo52.com/noticias/inmigracion/cancelan-daca-viaje-no-autorizado-demanda-gobierno/2885199/",
+    "location": "Matamoros, Mexico",
+    "source": "Telemundo 52",
+    "date": "2026-07-30T19:50:23.000Z",
+    "latitude": 25.89193,
+    "longitude": -97.5047996
+  },
+  {
+    "id": "255",
+    "title": "Le cancelaron DACA por un \"viaje no autorizado\"; demanda al gobierno tras ser deportada",
+    "link": "https://www.telemundo52.com/noticias/inmigracion/cancelan-daca-viaje-no-autorizado-demanda-gobierno/2885199/",
+    "location": "Brownsville, Texas",
+    "source": "Telemundo 52",
+    "date": "2026-07-30T19:50:23.000Z",
+    "latitude": 25.9024289,
+    "longitude": -97.4981698
+  },
+  {
+    "id": "256",
+    "title": "Le cancelaron DACA por un \"viaje no autorizado\"; demanda al gobierno tras ser deportada",
+    "link": "https://www.telemundochicago.com/noticias/inmigracion/cancelan-daca-viaje-no-autorizado-demanda-gobierno/2647675/",
+    "location": "Matamoros, Mexico",
+    "source": "Telemundo Chicago",
+    "date": "2026-07-30T21:50:23.000Z",
+    "latitude": 25.89193,
+    "longitude": -97.5047996
+  },
+  {
+    "id": "257",
+    "title": "Le cancelaron DACA por un \"viaje no autorizado\"; demanda al gobierno tras ser deportada",
+    "link": "https://www.telemundochicago.com/noticias/inmigracion/cancelan-daca-viaje-no-autorizado-demanda-gobierno/2647675/",
+    "location": "Brownsville, Texas",
+    "source": "Telemundo Chicago",
+    "date": "2026-07-30T21:50:23.000Z",
+    "latitude": 25.9024289,
+    "longitude": -97.4981698
+  },
+  {
+    "id": "258",
+    "title": "Le cancelaron DACA por un \"viaje no autorizado\"; demanda al gobierno tras ser deportada",
+    "link": "https://www.telemundo51.com/noticias/inmigracion/cancelan-daca-viaje-no-autorizado-demanda-gobierno/2809479/",
+    "location": "Matamoros, Mexico",
+    "source": "Telemundo Miami",
+    "date": "2026-07-30T22:50:23.000Z",
+    "latitude": 25.89193,
+    "longitude": -97.5047996
+  },
+  {
+    "id": "259",
+    "title": "Le cancelaron DACA por un \"viaje no autorizado\"; demanda al gobierno tras ser deportada",
+    "link": "https://www.telemundo51.com/noticias/inmigracion/cancelan-daca-viaje-no-autorizado-demanda-gobierno/2809479/",
+    "location": "Brownsville, Texas",
+    "source": "Telemundo Miami",
+    "date": "2026-07-30T22:50:23.000Z",
+    "latitude": 25.9024289,
+    "longitude": -97.4981698
   }
 ]
