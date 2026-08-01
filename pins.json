@@ -2688,5 +2688,25 @@
     "date": "2026-07-31T18:02:00.000Z",
     "latitude": 29.7589382,
     "longitude": -95.3676974
+  },
+  {
+    "id": "269",
+    "title": "Detienen nuevamente a venezolano que llegó a EEUU para donar un riñón a su hermano",
+    "link": "https://www.telemundo52.com/noticias/inmigracion/reabren-caso-deportacion-venezolano/2885439/",
+    "location": "Missouri",
+    "source": "Telemundo 52",
+    "date": "2026-07-31T15:20:02.000Z",
+    "latitude": 38.7604815,
+    "longitude": -92.5617875
+  },
+  {
+    "id": "270",
+    "title": "Detienen nuevamente a venezolano que llegó a EEUU para donar un riñón a su hermano",
+    "link": "https://www.telemundo51.com/noticias/inmigracion/reabren-caso-deportacion-venezolano/2809836/",
+    "location": "Missouri",
+    "source": "Telemundo Miami",
+    "date": "2026-07-31T18:20:02.000Z",
+    "latitude": 38.7604815,
+    "longitude": -92.5617875
   }
 ]
